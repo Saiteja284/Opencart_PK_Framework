@@ -1,0 +1,7 @@
+2025-04-13 23:46:05 INFO  TC001_AccountRegistrationTest:30 - ******* Starting TC001_AccountRegistration ********
+2025-04-13 23:46:05 INFO  TC001_AccountRegistrationTest:35 - ****** clicked on my account link ******
+2025-04-13 23:46:06 INFO  TC001_AccountRegistrationTest:37 - ****** clicked on register link ******
+2025-04-13 23:46:06 INFO  TC001_AccountRegistrationTest:39 - ****** Providing customer details ******
+2025-04-13 23:46:07 INFO  TC001_AccountRegistrationTest:52 - ****** Validating Expected message ******
+2025-04-13 23:46:07 INFO  TC001_AccountRegistrationTest:65 - *********** Finished TC001_AccountRegistration ************
+2025-04-13 23:46:15 INFO  TC002_LoginTest:17 - ************* Starting TC002_LoginTest ****************

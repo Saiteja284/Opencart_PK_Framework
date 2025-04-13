@@ -1,0 +1,3 @@
+cd C:\Users\2142226\git\Opencart_PK_Framework\Opencart_PK_Framework
+
+mvn test
